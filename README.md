@@ -1,3 +1,1 @@
-# Projects
-
-Add L2 Regularization
+Has to connect to SQL Server to open application 
